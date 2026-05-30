@@ -778,6 +778,4 @@ VALUES (1, 'Reunión de organización torneo apertura',
 INSERT INTO DESTINATARIOS_MENSAJE (id_mensaje, id_usuario, leido)
 VALUES (1, 1, 0);
 
--- ============================================================
---  FIN DEL SCRIPT – CDGMFutsal (49 tablas + datos de prueba)
--- ============================================================
+
