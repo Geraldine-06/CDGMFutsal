@@ -1,16 +1,14 @@
 -- ============================================================
 --  BASE DE DATOS: CDGMFutsal
 --  Sistema de Gestión de Torneos
---  Ficha 3230984 – SENA – Bogotá 2026
+
 -- ============================================================
---  MÓDULO 9 – COMUNICACIÓN / NOTIFICACIONES / SOPORTE
---  Tablas: NOTIFICACIONES, MENSAJES_INTERNOS, DESTINATARIOS_MENSAJE
--- ============================================================
+
 
 USE CDGMFutsal;
 
 -- ============================================================
--- DDL – ESTRUCTURA DE TABLAS
+--  ESTRUCTURA DE TABLAS
 -- ============================================================
 
 CREATE TABLE NOTIFICACIONES (
